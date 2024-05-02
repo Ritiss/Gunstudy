@@ -1,0 +1,1 @@
+ /Users/chiya/Downloads/gunstudy/.dart_tool/flutter_build/6666f52e8b5017b5d3a63790a98b10a6/native_assets.yaml: 
